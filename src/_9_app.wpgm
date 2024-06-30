@@ -1,0 +1,8 @@
+import wollok.game.*
+import _8_juego.*
+
+program appEternautaGame {
+	juego.iniciar()
+	game.start()
+}
+ 
